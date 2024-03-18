@@ -28,6 +28,6 @@ Oyun ve Uygulama Akademisi 2023-2024 dönemi AppJam'inde takım 14 olarak sundu�
 
 ### Yetkililerin Kullanabileceği Özellikler
 
-- İşletme girişi ile etkinlik oluşturluduğunda genel kullanıcılar için güvenli ortam oluşturmayı hedefledik.
+- İşletme girişi ile etkinlik oluşturatak, genel kullanıcılara yönelik etkinliklerde güvenli ortam oluşturmayı hedefledik.
 
 *(tüm özellikler teorik olarak tasarlanmıştır, lakin uygulamanın bu versiyonunda kısmen mevcuttur :) )*
