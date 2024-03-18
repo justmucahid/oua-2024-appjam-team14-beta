@@ -4,7 +4,7 @@
 
 Oyun ve Uygulama Akademisi 2023-2024 dönemi AppJam'inde takım 14 olarak sunduğumuz projenin videosudur. Aşağıdaki alandan uygulamamızın tanıtım videosunu izleyebilirsiniz.
 
-[![OUA AppJam 2024 Team14 DemoReel](https://i9.ytimg.com/vi/Oi84USY5KRM/mq1.jpg?sqp=CMC64q8G-oaymwEmCMACELQB8quKqQMa8AEB-AHaAYAC4AOKAgwIABABGGUgZSg7MA8=&rs=AOn4CLDX0TrS1oKd85jJgYE-yx1qQj0W7Q))](https://youtu.be/Oi84USY5KRM)
+[![OUA AppJam 2024 Team14 DemoReel](https://i9.ytimg.com/vi/Oi84USY5KRM/mq1.jpg?sqp=CMC64q8G-oaymwEmCMACELQB8quKqQMa8AEB-AHaAYAC4AOKAgwIABABGGUgZSg7MA8=&rs=AOn4CLDX0TrS1oKd85jJgYE-yx1qQj0W7Q)](https://youtu.be/Oi84USY5KRM)
 
 
 
